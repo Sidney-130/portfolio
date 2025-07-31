@@ -31,7 +31,11 @@ export default function HomePage() {
           </div>
 
           <div className="flex md:items-left bg-gradient-to-r from-purple-600 to-purple-900 text-white px-3 py-2 rounded-sm text-sm">
-            <a href="" target="_blank" rel="noopener noreferrer">
+            <a
+              href="https://github.com/Sidney-130"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               Visit Github
             </a>
           </div>

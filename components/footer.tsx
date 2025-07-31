@@ -5,7 +5,11 @@ export default function Footer() {
   return (
     <div className="pt-6 pb-5 border-t bottom-0">
       <div className="flex justify-center items-center space-x-8">
-        <a href="#" target="_blank" rel="noopener noreferrer">
+        <a
+          href="https://t.me/sidney_13"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           <FaTelegram className="w-5 h-5" />
         </a>
         <a
