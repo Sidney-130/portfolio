@@ -2,9 +2,9 @@ import Image from "next/image";
 
 export default function HomePage() {
   return (
-    <div className="min-h-screen bg-gradient-to-tr from-black to-purple-900">
+    <div className="bg-gradient-to-tr from-black to-purple-900">
       <div className="w-full max-w-screen-lg mx-auto lg:min-h-screen lg:w-[1000px] pt-20 md:pt-40 pb-20">
-        <div className="flex flex-col justify-between items-center md:items-start gap-11 md:gap-7 mx-10">
+        <div className="flex flex-col justify-between items-center md:items-start gap-15 md:gap-7 mx-10">
           <div className="grid grid-cols-1 md:grid-cols-2 justify-center items-center gap-6">
             <div className="flex flex-col gap-2 md:text-left text-center">
               <h1 className="text-2xl">
