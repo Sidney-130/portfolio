@@ -25,6 +25,7 @@ export default function HomePage() {
                 width={200}
                 height={200}
                 alt="ProfileImage"
+                priority
                 className="border-2 rounded-full object-cover"
               />
             </div>
