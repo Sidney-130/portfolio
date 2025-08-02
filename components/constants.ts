@@ -26,6 +26,6 @@ export const myservices: myservicesProps[] = [
     id: 4,
     title: "Business Websites",
     content:
-      "help turn your idea into a website that makes money and converts users for your porduct",
+      "Help turn your idea into a website that makes money and converts users for your porduct",
   },
 ];
